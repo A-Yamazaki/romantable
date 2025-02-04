@@ -28,11 +28,12 @@ kf	の
 ;e	ふ
 ;a	へ
 ;f	ほ
-,d	ま
-,s	み
-,e	む
-,a	め
-,f	も
+,		、
+、d	ま
+、s	み
+、e	む
+、a	め
+、f	も
 od	や
 oe	ゆ
 of	よ
@@ -42,20 +43,24 @@ ie	る
 ia	れ
 if	ろ
 ud	わ
+us	うぃ
+ua	うぇ
 uf	を
 kk	ん
 K	ん
 k	ん
+k:	ん
 nd	が
 ns	ぎ
 ne	ぐ
 na	げ
 nf	ご
-.d	ざ
-.s	じ
-.e	ず
-.a	ぜ
-.f	ぞ
+.		．
+．d	ざ
+．s	じ
+．e	ず
+．a	ぜ
+．f	ぞ
 md	だ
 ms	ぢ
 me	づ
@@ -88,15 +93,15 @@ hwf	きょ
 l;d	しゃ
 l;e	しゅ
 l;f	しょ
-.;d	じゃ
-.;e	じゅ
-.;f	じょ
+．od	じゃ
+．oe	じゅ
+．off	じょ
 lwd	しゃ
 lwe	しゅ
 lwf	しょ
-.wd	じゃ
-.we	じゅ
-.wf	じょ
+．wd	じゃ
+．we	じゅ
+．wf	じょ
 c;d	ちゃ
 c;e	ちゅ
 c;f	ちょ
@@ -135,12 +140,12 @@ pof	ぴょ
 pwd	ぴゃ
 pwe	ぴゅ
 pwf	ぴょ
-,od	みゃ
-,oe	みゅ
-,of	みょ
-,wd	みゃ
-,we	みゅ
-,wf	みょ
+、od	みゃ
+、oe	みゅ
+、of	みょ
+、wd	みゃ
+、we	みゅ
+、wf	みょ
 iod	りゃ
 ioe	りゅ
 iof	りょ
@@ -154,15 +159,15 @@ r	ー
 hh	っ	h
 nn	っ	n
 ll	っ	l
-..	っ	.
+．.	っ	．
 jj	っ	j
 mm	っ	m
 ;;	っ	;
 //	っ	/
 pp	っ	p
-,,	っ	,
+、,	っ	,
 oo	っ	o
 ii	っ	i
 uu	っ	u
 yy	っ	y
-	っ	hn
+
